@@ -67,6 +67,17 @@ Topics:
 
   functions & return keyword
 
+
+Task:
+  Day 3: https://docs.google.com/document/d/1TPk3wqxDFi64WV-6hJOkYEzBaAYxNvZ4T9hRJGgvFjw/edit
+
+  Coding Practice: Do all the problems using normal funstionc, since we have not discussed 
+
+  types of functions. ** Do Not Submit **
+
+  Submit this after we discuss types of functions
+    
+
 Next Session:
 
   Hoisting

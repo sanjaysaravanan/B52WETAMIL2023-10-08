@@ -187,3 +187,12 @@ for (let i = 0; i < 10; i++) {
 }
 
 console.log(x);
+
+// Question from Nirmalraj
+var i = 1;
+var j = 2;
+j = i;
+const x = 3;
+let y = x;
+y = j;
+const z = y;
