@@ -1,0 +1,86 @@
+
+
+Topics:
+
+  using live server extension to serve files in local network
+    Port Number: To run multple service on a single local network
+    ( Localhost )
+
+  JSON or Object in JavaScript
+
+    JSON is a commonly accepted data format across software applications
+    JSON can also be presented as a file
+        KEY or string type should be in double quotes
+        value can be a string, number, boolean, null
+
+        or composite type following the above conditions
+
+        JSON can be array of objects or Object containg values as array
+        Eg: biodata.json & products.json both are a valid JSON format
+
+  datatypes:
+    Primitive:
+      number, string, boolean, null, undefined
+
+    Composite: combination multiple types
+      Array --> [1, 'sanjay', boolean, null]
+        Note: an array can also contain compsoite types ( Array, Object )
+
+          Eg: Array can contain array itself
+
+            [[1, 2, 3], ['Sanjay', 'Santosh', 'Manoj'], ['Python', 'JavaScript']]
+
+              Array can also contain objects
+            [ 
+              { name: 'Manoj', age: 12, origin: 'Tanjavur' },
+              { name: 'Sanjay', age: 25, origin: 'Chennai' },
+              { name: 'Manikandan', age: 24, origin: 'Bengaluru' }
+            ]
+
+      Object --> {
+        name: 'Sanjay',
+        role: 'Developer',
+        expe: 10,
+      }
+        Object Value can also be a composite value
+          Eg: Object can contain array, object
+              {
+                "skills": ["Python", "Javascript"],
+                "contact": {
+                  "mobile": "9090909090",
+                  "email": "sanjay@gmail.com",
+                  "website": "sanjay.com"
+                },
+                "isIndian": true
+              }
+
+  Scope:
+
+    {} block, [] ---> array, () --> function definition or function calling 
+
+    global scope
+    local scopes
+      inside function
+      inside {} block
+  
+  var let const
+
+  functions & return keyword
+
+Next Session:
+
+  Hoisting
+
+  Code Formatting
+
+  types of functions:
+
+    1. anonymous
+    2. Arrow functions
+    3. IIFE 
+
+  Copy by Value & Copy by Reference
+
+  Array & JSON Iteration
+
+  XMLHttpRequest

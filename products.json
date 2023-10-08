@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Tea",
+    "price": 200,
+    "rating": 4.3
+  },
+  {
+    "title": "Coffee",
+    "price": 150,
+    "rating": 4.3
+  },
+  {
+    "title": "Sugar",
+    "price": 100,
+    "rating": 4.3
+  }
+]
